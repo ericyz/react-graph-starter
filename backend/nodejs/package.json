@@ -1,0 +1,34 @@
+{
+  "name": "react-graph-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "graphql-yoga": "1.18.3"
+  },
+  "devDependencies": {
+    "graphql-cli": "2.17.0",
+    "npm-run-all": "4.1.5",
+    "ts-node": "6.2.0",
+    "typescript": "2.9.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericyz/react-graph-starter.git"
+  },
+  "keywords": [
+    "react",
+    "boilerplate",
+    "python",
+    "graphql"
+  ],
+  "author": "ericzhao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericyz/react-graph-starter/issues"
+  },
+  "homepage": "https://github.com/ericyz/react-graph-starter#readme"
+}
